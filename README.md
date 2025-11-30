@@ -111,19 +111,3 @@ After downloading the project and running it, it would be very easy steps:
 3. Once you've chosen a model, only the needed parameters will be enabled.
 4. Only Model D/D/1/K-1 can be sketched. Also, you can make a query in.
 5. Enjoy!
-
-### Screenshots:
-
-<div align="center">
-
-![Screenshot from 2020-12-22 15-29-14](https://user-images.githubusercontent.com/52632898/102894846-65341180-446c-11eb-8549-4be116aff37b.png)
-
-<hr />
-
-![Screenshot from 2020-12-22 15-31-00](https://user-images.githubusercontent.com/52632898/102894972-914f9280-446c-11eb-967c-6f6421fb8cd4.png)
-
-<hr />
-
-![Screenshot from 2020-12-22 15-33-45](https://user-images.githubusercontent.com/52632898/102894936-83017680-446c-11eb-8b93-970ac2b533a0.png)
-
-</div>
